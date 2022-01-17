@@ -1,7 +1,6 @@
 {
   "name": "zenn-documents",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/yukki-jpn/zenn-documents/issues"
   },
-  "homepage": "https://github.com/yukki-jpn/zenn-documents#readme"
+  "homepage": "https://github.com/yukki-jpn/zenn-documents#readme",
+  "dependencies": {
+    "encoding": "^0.1.13",
+    "zenn-cli": "^0.1.102"
+  },
+  "devDependencies": {},
+  "description": ""
 }
